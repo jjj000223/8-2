@@ -14,6 +14,6 @@ int main()
 	*p = 200;
 
 	sum = data1 + data2;
-	printf("µÎ º¯¼öÀÇ ÇÕ: %d\n", sum);
+	printf("ë‘ ë³€ìˆ˜ì˜ í•©: %d\n", sum);
 
 }
